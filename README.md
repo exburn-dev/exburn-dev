@@ -1,4 +1,4 @@
-## Hi there <img src="assets/hi.gif" width="80" />
+## Hi there  <img src="assets/hi.gif" width="80" />
 
 I’m kind of developer.
 
@@ -10,6 +10,6 @@ Mostly working on Unity games and Minecraft mods, but also have a bunch of small
 Great part of my old projects aren’t on Github, because I didn’t knew about it when started and now I’m too lazy to add them. Maybe, sometimes.
 
 (not) Fun fact:
-- I have big problems with finishing and releasing projects. Despite years of developing I have only few small relases ![fire](assets/timeout.gif)
+- I have big problems with finishing and releasing projects. Despite years of developing I have only few small relases <img src="assets/timeout.gif" width="40" />
 
-![fire](assets/joel.gif)
+<img src="assets/joel.gif" width="160" />
