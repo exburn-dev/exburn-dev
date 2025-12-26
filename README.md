@@ -1,4 +1,4 @@
-## Hi there ![fire](assets/hi.gif)
+## Hi there <img src="assets/hi.gif" width="80" />
 
 I’m kind of developer.
 
