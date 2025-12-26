@@ -9,7 +9,9 @@ Mostly working on Unity games and Minecraft mods, but also have a bunch of small
 
 Great part of my old projects aren’t on Github, because I didn’t knew about it when started and now I’m too lazy to add them. Maybe, sometimes.
 
-(not) Fun fact:
-- I have big problems with finishing and releasing projects. Despite years of developing I have only few small relases <img src="assets/timeout.gif" width="40" />
+(not) Fun fact about me:
+- I have big problems with finishing and releasing projects. Despite years of developing I have only few small releases <img src="assets/ultramad.png" width="40" />
 
-<img src="assets/joel.gif" width="160" />
+
+
+<img src="assets/joel.gif" width="120" />
