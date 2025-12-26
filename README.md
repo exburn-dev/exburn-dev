@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there ![fire](assets/hi.gif)
 
-<!--
-**exburn-dev/exburn-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m kind of developer.
 
-Here are some ideas to get you started:
+My main programming languages are C# and Java.
+Also worked a bit with react.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mostly working on Unity games and Minecraft mods, but also have a bunch of small projects.
+
+Great part of my old projects aren’t on Github, because I didn’t knew about it when started and now I’m too lazy to add them. Maybe, sometimes.
+
+(not) Fun fact:
+- I have big problems with finishing and releasing projects. Despite years of developing I have only few small relases ![fire](assets/timeout.gif)
+
+![fire](assets/joel.gif)
