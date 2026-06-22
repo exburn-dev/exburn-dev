@@ -1,13 +1,20 @@
 ## Hi there  <img src="assets/hi.gif" width="80" />
 
-I’m kind of developer.
+I’m a junior C# developer.
 
-My main programming languages are C# and Java.
-Also worked a bit with react.
+My main programming language is C#. I also have experience in Python, Java, C++, JavaScript and HTML/CSS.
+My current focus is C# backend development with ASP.NET Core.
 
-Mostly working on Unity games and Minecraft mods, but also have a bunch of small projects.
+Previously, I worked on various hobby projects: 
+- games in Unity and Godot (using C# in both)
+- many Minecraft mods and plugins (Java)
+- Discord bots in Python
+- frontend applications using React
+- desktop applications for Windows
 
-Great part of my old projects aren’t on Github, because I didn’t knew about it when started and now I’m too lazy to add them. Maybe, sometimes.
+Some of my previous projects were not saved. Also, a large part of my projects is private, as many of them are unfinished or experimental.
 
-(not) Fun fact about me:
-- I have big problems with finishing and releasing projects. Despite years of developing I have only few small releases <img src="assets/ultramad.png" width="25" />
+I enjoy learning and trying new things, so for a long time I preferred prototyping and small to medium-sized projects.
+Now I'm working on improving my ability to develop larger projects and bring them to a polished release state.
+
+Open for collaboration.
